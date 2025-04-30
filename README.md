@@ -1,4 +1,4 @@
-# Program.cs: Consola para ejecutar consultas LINQ sobre libros
+# Consola para ejecutar consultas LINQ sobre libros
 
 Programa para ejecutar y mostrar los resultados de las consultas definidas en `LinqQueries.cs` sobre una colección de libros leída desde un archivo JSON.
 
